@@ -8,8 +8,8 @@ const char* prometheusEndpoint = "http://192.168.1.232:9091/metrics";
 const char* metricName = "m5stick_decibel_level";
 
 // Wi-Fi configuration
-const char* ssid = "NiteHawk";
-const char* password = "HarkingCarlins!42";
+const char* ssid = "asdf";
+const char* password = "asdf";
 
 // I2S configuration
 const i2s_port_t I2S_PORT = I2S_NUM_0;
